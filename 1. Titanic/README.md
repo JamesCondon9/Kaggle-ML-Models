@@ -5,5 +5,5 @@ Each folder details my improved attempts at the problem, with their scores liste
 
 Scoring Metric: *Accuracy*
 
-Attempt_2: X.XXXXX
-Attempt_1: 0.77272 (Worse than test submission! 😆)
+Attempt_1: X.XXXXX (WIP)
+Baseline Random Forests: 0.77272 (Worse than supplied test submission! 😆)
