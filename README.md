@@ -8,5 +8,5 @@ Only selected files are tracked in Git to keep the repository lightweight and fo
 
 | Competition | Model | Other Techniques | Scoring Metric | Best Score |
 | ----------- | ----- | ---------------- | -------------- | ---------- |
-| Titanic     | Random Forests Classifier  | One-Hot Encoding, `GridSearchCV`, `StratifiedKFold` validation | Accuracy       | 77.272% |
+| 1. Titanic     | Random Forests Classifier  | One-Hot Encoding, `GridSearchCV`, `StratifiedKFold` validation | Accuracy       | 77.272% |
 | TBD         |       |                  |                |            |
